@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShortStoryApp</string>
+    <string name="it_s_morning">It\'s morning and i\'m on my way to work.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="it_s_dawn_i_need_to_get_home">It\'s dawn, i need to get back home. Tap the bike to take me home.</string>
+    <string name="good_night_thanks_for_getting_me_home">Good night. Thanks for getting me home</string>
+</resources>
